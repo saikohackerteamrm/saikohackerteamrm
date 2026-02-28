@@ -8,31 +8,30 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=Saiko+Boy+Rony+Ali;+It's+Not+Just+My+Name;It's+A+Brand+Minded)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F70B10&size=27&lines=I'm+Saiko+Boy+Rony+Ali;CEO+of+TEAM+S-H-T+and+;BD+Cyber+Community;Red+Team+Simulation+;also+Junior+Programmer.)](https://git.io/typing-svg)
  
 </p>
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-1.svg">
  
-<h3 align="center"> Sáíkø Hacker Team {R.M}</h3>
+<h3 align="center"> sʏsᴛᴇᴍ ʜᴜɴᴛᴇʀ ᴛᴀsᴋғᴏʀᴄᴇ </h3>
  
-## Certified Ethical Hacker & Red Team Analyst.
+## OUR COMMUNITY & SUPPORT + PARTNER.
 
-## First Certificate 
-<img src="https://github.com/Saikohackerteamrm/Saikohackerteamrm/blob/main/CERTIFICATE/%20Global%20Tech%20Counsil.jpg">
+## TEAM S-H-T OFFICIAL 
+<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/S-H-T.png">
 
-## Second Certificate 
-<img src="https://github.com/Saikohackerteamrm/Saikohackerteamrm/blob/main/CERTIFICATE/D-N-H%20.jpg">
+## TEAM S-H-T IT 
+<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/IT.jpg">
 
-## Third Certificate 
-<img src="https://github.com/Saikohackerteamrm/Saikohackerteamrm/blob/main/CERTIFICATE/CWL.jpg">
+## BD-C-C
+<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/BD-C-C.png">
 
-## Fourth Certificate
-<img src="https://github.com/Saikohackerteamrm/Saikohackerteamrm/blob/main/CERTIFICATE/20250930_121549.jpg">
+## BNCC 
+<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/BNCC.png">
 
- ## Fifth Certificate 
-<img src="https://github.com/Saikohackerteamrm/Saikohackerteamrm/blob/main/CERTIFICATE/20250924_115710.jpg">
-
+ ## চাপাই সংবাদ Time 
+<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/চাপাই সংবাদ Times.jpg">
 
 
 
@@ -92,5 +91,3 @@
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
