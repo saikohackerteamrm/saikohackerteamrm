@@ -19,19 +19,19 @@
 ## OUR COMMUNITY & SUPPORT + PARTNER.
 
 ## TEAM S-H-T OFFICIAL 
-<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/S-H-T.png">
+<img src="https://github.com/saikohackerteamrm/saikohackerteamrm/blob/main/CERTIFICATE/S-H-T.png">
 
 ## TEAM S-H-T IT 
-<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/IT.jpg">
+<img src="https://github.com/saikohackerteamrm/saikohackerteamrm/blob/main/CERTIFICATE/IT.jpg">
 
 ## BD-C-C
-<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/BD-C-C.png">
+<img src="https://github.com/saikohackerteamrm/saikohackerteamrm/blob/main/CERTIFICATE/BD-C-C.png">
 
 ## BNCC 
-<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/BNCC.png">
+<img src="https://github.com/saikohackerteamrm/saikohackerteamrm/blob/main/CERTIFICATE/BNCC.pnh">
 
  ## চাপাই সংবাদ Time 
-<img src="https://github.com/systemhuntertaskforce/systemhuntertaskforce/blob/main/IMG/চাপাই সংবাদ Times.jpg">
+<img src="https://github.com/saikohackerteamrm/saikohackerteamrm/blob/main/CERTIFICATE/চাপাই সংবাদ Times.jpg">
 
 
 
